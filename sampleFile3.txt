@@ -1,0 +1,1 @@
+Test for stash training for untracked files in File 3
