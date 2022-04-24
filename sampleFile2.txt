@@ -1,1 +1,2 @@
 This is sample file 2
+Test for stash training in File 2
