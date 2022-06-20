@@ -1,4 +1,4 @@
-This is sample file 1
+This is sample file 1 edited
 New commit added for test revert
 This is comaprison test
 Test for stash training in File 1
