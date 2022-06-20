@@ -1,5 +1,5 @@
-This is sample file 1 edited
-New commit added for test revert edited
+This is sample file 1 edited1
+New commit added for test revert edited1
 This is comaprison test
 Test for stash training in File 1
 Test for stash training for untracked files in File 2
